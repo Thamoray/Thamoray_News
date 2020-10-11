@@ -16,6 +16,9 @@ const App =() =>{
 
 
     const classes = useStyles();
+    useEffect(() => {
+      document.title = "Thamoray News"
+    }, [])
 
     useEffect(() => {
         alanBtn({
