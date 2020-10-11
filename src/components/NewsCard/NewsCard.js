@@ -1,24 +1,28 @@
 import React from 'react'
 import {Card, CardActions, CardContent, CardMedia, Button, Typography, CardActionArea } from '@material-ui/core';
 
-const NewsCard = () => {
-    return (
-          <Card>
-            <CardActionArea>
-              <CardMedia/>
-              <div>
-                <Typography variant="body2" color="textSecondary" component="h2"></Typography>
-                <Typography variant="body2" color="textSecondary" component="h2"></Typography>
+import useStyles from './styles.js'
+
+const NewsCard = ({article: {description, publishedAt, source, title, url, urlToImage }, i}) => {
+  const classes = useStyles();  
+  
+  return (
+          <Card className={classes.card}>
+            <CardActionArea href={url} target="_blank">
+              <CardMedia className={classes.media} image={urlToImage ||'https://recreationalpotshops.com/wp-content/uploads/2015/02/news-button.jpg' }/>
+              <div className={classes.details}>
+    <Typography variant="body2" color="textSecondary" component="h2">{new Date(publishedAt).toDateString()}</Typography>
+    <Typography variant="body2" color="textSecondary" component="h2">{source.name}</Typography>
               </div>
-              <Typography gutterBottom variant="h5"></Typography>
+    <Typography className={classes.title} gutterBottom variant="h6">{title}</Typography>
               <CardContent>
-                <Typography variant="body2" color="textSecondary" component="p"></Typography>
+  <Typography variant="body2" color="textSecondary" component="p">{description}</Typography>
               </CardContent>
-              <CardActions>
-                <button size="small" color="primary"></button>
-                <Typography variant="h5" color="textSecondary" component="p"></Typography>
-              </CardActions>
-            </CardActionArea>
+              </CardActionArea>
+              <CardActions className={classes.cardActions}>
+              <Button size="small" color="primary" href={url}>Learn More</Button>
+                <Typography variant="h5" color="textSecondary" component="p">{i+1}</Typography>
+              </CardActions>     
           </Card>
     )
 }
