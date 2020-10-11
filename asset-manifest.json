@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/thamoraynews/static/css/main.efcaabd9.chunk.css",
-    "main.js": "/thamoraynews/static/js/main.f8bba618.chunk.js",
-    "main.js.map": "/thamoraynews/static/js/main.f8bba618.chunk.js.map",
-    "runtime-main.js": "/thamoraynews/static/js/runtime-main.41edbd8d.js",
-    "runtime-main.js.map": "/thamoraynews/static/js/runtime-main.41edbd8d.js.map",
-    "static/js/2.f360f1a1.chunk.js": "/thamoraynews/static/js/2.f360f1a1.chunk.js",
-    "static/js/2.f360f1a1.chunk.js.map": "/thamoraynews/static/js/2.f360f1a1.chunk.js.map",
-    "index.html": "/thamoraynews/index.html",
-    "precache-manifest.8704dd24bdcfd1856bdd0f455658c98f.js": "/thamoraynews/precache-manifest.8704dd24bdcfd1856bdd0f455658c98f.js",
-    "service-worker.js": "/thamoraynews/service-worker.js",
-    "static/css/main.efcaabd9.chunk.css.map": "/thamoraynews/static/css/main.efcaabd9.chunk.css.map",
-    "static/js/2.f360f1a1.chunk.js.LICENSE.txt": "/thamoraynews/static/js/2.f360f1a1.chunk.js.LICENSE.txt"
+    "main.css": "/Voice-Recognition-React-News-Application/static/css/main.efcaabd9.chunk.css",
+    "main.js": "/Voice-Recognition-React-News-Application/static/js/main.f8bba618.chunk.js",
+    "main.js.map": "/Voice-Recognition-React-News-Application/static/js/main.f8bba618.chunk.js.map",
+    "runtime-main.js": "/Voice-Recognition-React-News-Application/static/js/runtime-main.58007cff.js",
+    "runtime-main.js.map": "/Voice-Recognition-React-News-Application/static/js/runtime-main.58007cff.js.map",
+    "static/js/2.f360f1a1.chunk.js": "/Voice-Recognition-React-News-Application/static/js/2.f360f1a1.chunk.js",
+    "static/js/2.f360f1a1.chunk.js.map": "/Voice-Recognition-React-News-Application/static/js/2.f360f1a1.chunk.js.map",
+    "index.html": "/Voice-Recognition-React-News-Application/index.html",
+    "precache-manifest.b71407ee4a1f57346d36b951f006c3c0.js": "/Voice-Recognition-React-News-Application/precache-manifest.b71407ee4a1f57346d36b951f006c3c0.js",
+    "service-worker.js": "/Voice-Recognition-React-News-Application/service-worker.js",
+    "static/css/main.efcaabd9.chunk.css.map": "/Voice-Recognition-React-News-Application/static/css/main.efcaabd9.chunk.css.map",
+    "static/js/2.f360f1a1.chunk.js.LICENSE.txt": "/Voice-Recognition-React-News-Application/static/js/2.f360f1a1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.41edbd8d.js",
+    "static/js/runtime-main.58007cff.js",
     "static/js/2.f360f1a1.chunk.js",
     "static/css/main.efcaabd9.chunk.css",
     "static/js/main.f8bba618.chunk.js"
