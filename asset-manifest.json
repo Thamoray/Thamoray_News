@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Voice-Recognition-React-News-Application/static/css/main.efcaabd9.chunk.css",
-    "main.js": "/Voice-Recognition-React-News-Application/static/js/main.f8bba618.chunk.js",
-    "main.js.map": "/Voice-Recognition-React-News-Application/static/js/main.f8bba618.chunk.js.map",
-    "runtime-main.js": "/Voice-Recognition-React-News-Application/static/js/runtime-main.58007cff.js",
-    "runtime-main.js.map": "/Voice-Recognition-React-News-Application/static/js/runtime-main.58007cff.js.map",
-    "static/js/2.f360f1a1.chunk.js": "/Voice-Recognition-React-News-Application/static/js/2.f360f1a1.chunk.js",
-    "static/js/2.f360f1a1.chunk.js.map": "/Voice-Recognition-React-News-Application/static/js/2.f360f1a1.chunk.js.map",
-    "index.html": "/Voice-Recognition-React-News-Application/index.html",
-    "precache-manifest.b71407ee4a1f57346d36b951f006c3c0.js": "/Voice-Recognition-React-News-Application/precache-manifest.b71407ee4a1f57346d36b951f006c3c0.js",
-    "service-worker.js": "/Voice-Recognition-React-News-Application/service-worker.js",
-    "static/css/main.efcaabd9.chunk.css.map": "/Voice-Recognition-React-News-Application/static/css/main.efcaabd9.chunk.css.map",
-    "static/js/2.f360f1a1.chunk.js.LICENSE.txt": "/Voice-Recognition-React-News-Application/static/js/2.f360f1a1.chunk.js.LICENSE.txt"
+    "main.css": "/Thamoray_News/static/css/main.efcaabd9.chunk.css",
+    "main.js": "/Thamoray_News/static/js/main.f8bba618.chunk.js",
+    "main.js.map": "/Thamoray_News/static/js/main.f8bba618.chunk.js.map",
+    "runtime-main.js": "/Thamoray_News/static/js/runtime-main.ac61c5b3.js",
+    "runtime-main.js.map": "/Thamoray_News/static/js/runtime-main.ac61c5b3.js.map",
+    "static/js/2.f360f1a1.chunk.js": "/Thamoray_News/static/js/2.f360f1a1.chunk.js",
+    "static/js/2.f360f1a1.chunk.js.map": "/Thamoray_News/static/js/2.f360f1a1.chunk.js.map",
+    "index.html": "/Thamoray_News/index.html",
+    "precache-manifest.731c0387b1587f504e2b7923a4c55253.js": "/Thamoray_News/precache-manifest.731c0387b1587f504e2b7923a4c55253.js",
+    "service-worker.js": "/Thamoray_News/service-worker.js",
+    "static/css/main.efcaabd9.chunk.css.map": "/Thamoray_News/static/css/main.efcaabd9.chunk.css.map",
+    "static/js/2.f360f1a1.chunk.js.LICENSE.txt": "/Thamoray_News/static/js/2.f360f1a1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.58007cff.js",
+    "static/js/runtime-main.ac61c5b3.js",
     "static/js/2.f360f1a1.chunk.js",
     "static/css/main.efcaabd9.chunk.css",
     "static/js/main.f8bba618.chunk.js"
